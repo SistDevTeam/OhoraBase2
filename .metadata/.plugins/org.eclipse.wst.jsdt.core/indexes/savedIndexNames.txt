@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\Users\USER\Desktop\OhoraTest-main\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4196441488.index
+518857624.index
+2043575734.index
+794413346.index
+83990442.index
+1194444252.index
+3133326478.index
+870042824.index
+1614610330.index
